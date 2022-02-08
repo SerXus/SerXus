@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SerXus
-- 👀 I’m interested in c#
+- 👀 I’m interested in C++
 - 🌱 I’m currently learning sex positions
